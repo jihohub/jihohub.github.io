@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "박지호"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "JS와 TS, React를 중점적으로 공부하고 있는 프론트엔드 개발자입니다."
+  bio              : "JavaScript와 TyprScript, React를 중점적으로 공부하고 있는 프론트엔드 개발자입니다."
   location         : "Republic of Korea"
   email            : "diorpark@gmail.com"
   links:
